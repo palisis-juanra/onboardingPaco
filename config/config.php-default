@@ -1,0 +1,12 @@
+<?php
+
+include("vendor/autoload.php");
+
+use TourCMS\Utils\TourCMS;
+
+$channels = [
+    "1" => "0",
+    "2" => "0",
+];
+
+?>

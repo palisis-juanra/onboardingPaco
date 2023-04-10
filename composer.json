@@ -1,0 +1,8 @@
+{
+    "name": "test/tourcms-php",
+    "description": "Test Tourcms PHP",
+    "require": {
+        "tourcms/tourcms-php": "3.11.0",
+        "predis/predis": "1.*.*"
+    }
+}
